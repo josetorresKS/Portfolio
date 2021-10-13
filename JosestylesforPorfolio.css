@@ -78,9 +78,14 @@ a.font-black{
 }
 #projects h2{
     text-align: center;
+
    
 }
 #projects .card-title{
     font-weight: bold;
+
     
+}
+#projects .card img {
+    width: 100%;
 }
