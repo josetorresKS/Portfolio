@@ -4,7 +4,8 @@ This is my project using HTML and CSS
 
 [Live Heroku Deployment](https://portfolio-josemt.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/91580447/137051126-1271eb10-8d24-4364-877a-f24b81ab19de.png)
+![image](https://user-images.githubusercontent.com/91580447/146103466-c119042b-08fd-4f52-a6b0-f7f59abb0a21.png)
+)
 
 
 # Technologies Used
